@@ -1,0 +1,21 @@
+# Core
+langchain>=1.0
+langchain-core>=1.0
+langchain-chroma>=0.2
+chromadb>=0.5
+pydantic>=2.7
+python-dotenv>=1.0
+streamlit>=1.40
+
+# Default embeddings: free, run locally, no API key
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+
+# Install the package for the LLM provider you use (uncomment one):
+langchain-openai>=0.2
+# langchain-groq>=0.2
+# langchain-google-genai>=2.0
+# langchain-ollama>=0.2
+
+# Tests
+pytest>=8.0

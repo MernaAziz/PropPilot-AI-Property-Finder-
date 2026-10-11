@@ -1,0 +1,56 @@
+[
+  {
+    "district": "University District",
+    "description": "Home of the City University campus. Full of students, cafes, bookshops, cheap restaurants and print shops. Busy and lively during the semester, calmer in summer. Most apartments are within a 5 to 10 minute walk of the university gates.",
+    "landmarks": ["City University", "University Library", "Student Union Cafe Street"],
+    "to_university": "5-10 min walk",
+    "to_metro": "15 min by bus to Central Metro Station",
+    "vibe": "lively, student-friendly, a bit noisy at night during exams and parties",
+    "typical_rent_2br": 800
+  },
+  {
+    "district": "Old Town",
+    "description": "Historic neighborhood with narrow streets, old stone buildings and the Old Market. It sits right next to the south gate of City University, about a 10 to 15 minute walk to campus. Cheaper than the University District, but buildings are older, few have elevators, and the market streets get noisy on weekend nights.",
+    "landmarks": ["Old Market", "Clock Tower Square", "City University south gate"],
+    "to_university": "10-15 min walk",
+    "to_metro": "20 min by bus to Central Metro Station",
+    "vibe": "charming, historic, affordable, noisy on weekends",
+    "typical_rent_2br": 600
+  },
+  {
+    "district": "Riverside",
+    "description": "Quiet, upscale area along the river with the River Walk promenade, river-view towers and good security. Popular with professionals and families. About 25 minutes by bus to City University and 10 minutes by bus to downtown.",
+    "landmarks": ["River Walk", "Riverside Hospital", "Marina"],
+    "to_university": "25 min by bus",
+    "to_metro": "10 min by bus to Central Metro Station",
+    "vibe": "quiet, green, expensive, safe",
+    "typical_rent_2br": 1150
+  },
+  {
+    "district": "Downtown",
+    "description": "The city center with offices, City Mall, banks and the Central Metro Station, which connects to every line. Very convenient for commuting, about 15 minutes by metro to City University, but crowded, with heavy traffic and little parking.",
+    "landmarks": ["Central Metro Station", "City Mall", "Business Towers"],
+    "to_university": "15 min by metro",
+    "to_metro": "0-5 min walk to Central Metro Station",
+    "vibe": "busy, convenient, central, crowded",
+    "typical_rent_2br": 950
+  },
+  {
+    "district": "Green Hills",
+    "description": "Suburban family area with Central Park, the International School, wide streets and lots of trees. Quiet and safe with easy parking, but far from the center: about 35 to 40 minutes by bus to City University, or 20 minutes by car.",
+    "landmarks": ["Central Park", "International School", "Green Hills Sports Club"],
+    "to_university": "35-40 min by bus, 20 min by car",
+    "to_metro": "25 min by bus to Central Metro Station",
+    "vibe": "quiet, family-friendly, green, needs a car",
+    "typical_rent_2br": 900
+  },
+  {
+    "district": "Eastgate",
+    "description": "The cheapest part of the city, next to the Main Train Station and the Industrial Zone. Many renovated blocks with good space for the price, but there is truck traffic and some noise from the railway. About 30 minutes by bus to City University.",
+    "landmarks": ["Main Train Station", "Industrial Zone", "Eastgate Market"],
+    "to_university": "30 min by bus",
+    "to_metro": "15 min by bus to Central Metro Station",
+    "vibe": "budget, working-class, some traffic noise",
+    "typical_rent_2br": 470
+  }
+]
